@@ -26,6 +26,10 @@ main{
     height: 100%;
 }
 
+body{
+    background-color: #B9DEFF;
+}
+
 nav{
     display: flex;
     align-items: center;
@@ -174,11 +178,11 @@ nav .logo-nav{
     width: 800px;
 }
 
-/* .right-building{
+.right-building{
     position: absolute;
     bottom: -13%;
     right: 0;
-} */
+}
 
 
 
